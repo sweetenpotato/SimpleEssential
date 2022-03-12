@@ -1,0 +1,4 @@
+name: SimpleEssential
+version: '${project.version}'
+main: io.github.sweetenpotato.simpleessential.plugin.SimpleEssential
+api-version: 1.18
